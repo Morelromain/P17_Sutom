@@ -23,4 +23,4 @@ Python Package : Aucun
 
 IMPORTANT : Je ne suis pas l'auteur du jeu https://sutom.nocle.fr/  
 Ce programme permet juste d'effectuer des classements basés sur vos conversations whatsapp.  
-Le GitLab du projet sutom de son créateur : https://framagit.org/JonathanMM/sutom  
+Le lien du projet SUTOM et de son créateur : https://framagit.org/JonathanMM/sutom  
