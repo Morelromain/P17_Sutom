@@ -14,8 +14,13 @@ Python Package : Aucun
 
 ## Utilisation
 
-- Copier le fichier de votre conversation whatsapp qui contient les résultats des parties SUTOM dans le dossier <fichier_a_analyser>
+- Allez dans votre conversation whatsapp où les résultats des parties de SUTOM sont partagés par vos amis :  
+`Plus -> Exporter discussion`  
+- Copier le fichier récupéré dans le dossier <fichier_a_analyser>
 
 - Lancer le programme:  
 `$ python -m sutom`
 
+IMPORTANT : Je ne suis pas l'auteur du jeu https://sutom.nocle.fr/  
+Ce programme permet juste d'effectuer des classements basés sur vos conversations whatsapp.  
+Le GitLab du projet sutom de son créateur : https://framagit.org/JonathanMM/sutom  
