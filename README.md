@@ -1,5 +1,5 @@
 # CLASSEMENT SUTOM
-Programme d'automatisation de classement des joueurs de SUTOM
+Programme d'automatisation de classement des joueurs de SUTOM d'après votre discussion whatsapp
 
 ## Installation
 
@@ -14,7 +14,7 @@ Python Package : Aucun
 
 ## Utilisation
 
-- Copier le fichier de votre conversation (whatsapp, discord ou autre) qui contient les résultats des parties SUTOM dans le dossier <fichier_a_analyser>
+- Copier le fichier de votre conversation whatsapp qui contient les résultats des parties SUTOM dans le dossier <fichier_a_analyser>
 
 - Lancer le programme:  
 `$ python -m sutom`
